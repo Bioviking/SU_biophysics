@@ -9,9 +9,9 @@ git init
 
 #Creating files in project directory
 touch mkdir.gitkeep
-touch README.txt
+#touch README.txt
 touch project_plan.docx
-touch runall.sh
+#touch runall.sh
 
 #Creating of the subdirectories for the new project
 mkdir templates
