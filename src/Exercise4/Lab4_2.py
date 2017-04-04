@@ -33,7 +33,7 @@ steps = 100
 numberOfWalks = 5000
 
 # Set the length of each step
-stepLength = 1
+stepLength = 9
 
 # Arrays to hold partial output
 lengthOfWalks = np.zeros(numberOfWalks)
